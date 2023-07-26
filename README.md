@@ -10,3 +10,4 @@ sudo apt-get install ros-melodic-moveit
 $ sudo apt-get install ros-melodic-joint-state-publisher ros-melodic-joint-state-publisher-gui
 $ sudo apt-get install ros-melodic-gazebo-ros-control joint-state-publisher
 $ sudo apt-get install ros-melodic-ros-controllers ros-melodic-ros-control
+!picture(jpeg)
