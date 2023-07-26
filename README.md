@@ -11,5 +11,5 @@ $ sudo apt-get install ros-melodic-joint-state-publisher ros-melodic-joint-state
 $ sudo apt-get install ros-melodic-gazebo-ros-control joint-state-publisher
 $ sudo apt-get install ros-melodic-ros-controllers ros-melodic-ros-control
 
-![IMG_8406](https://github.com/ShahadAlshahrani/artificial-intelligence/assets/139855183/cf72e9fe-a148-457f-9ea2-4e61f809de47)
-![IMG_8405](https://github.com/ShahadAlshahrani/artificial-intelligence/assets/139855183/bb01099b-3a54-450f-999c-7d325f28366e)
+![IMG_8406]
+![IMG_8405]
